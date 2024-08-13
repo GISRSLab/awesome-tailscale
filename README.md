@@ -68,4 +68,4 @@ This restricts users with the `tag:common` designation to accessing solely the "
 
 ## How to contribute?
 
-Feel free to pull request your ideas and tricks with tailscale!
+Feel free to pull request your ideas and tricks of tailscale!
